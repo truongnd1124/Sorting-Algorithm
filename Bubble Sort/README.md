@@ -26,8 +26,11 @@ Bước 1:
 
 Lúc này ta không thể xét cặp số nữa -> hết bước 1
 
+Tương tự cho các bước tiếp theo.
+
 ## Sắp xếp nổi bọt sẽ có độ phức tạp
 $$(n-1)+(n-2)+...+1 = \frac{n(n-1)}{2} = \frac{n^2-n}{2} \approx n^2$$
+
 -> Độ phức tạp thuật toán là $O(n^2)$
 
 Trong trường hợp tốt nhất sẽ có độ phức tạp thuật toán là $O(n)$
